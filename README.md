@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wlwxj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Python,spider
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...QQ:2894389184
+- 📫 How to reach me QQ:2894389184
 
 <!---
 wlwxj/wlwxj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
