@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @wlwxj EV diox1de
-- D1ve_Wh4le@outlook.com
+- email me : D1ve_Wh4le@outlook.com
